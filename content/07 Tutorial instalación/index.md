@@ -1,7 +1,9 @@
 ---
-title: "Tutorial de Instalación"
+title: "Tutorial Descarga de copia local"
 ---
+Para descargar esta página, recomendamos el uso del software Obsidian. Los contenidos de la página se encuentran guardados en un repositorio de Github.
 
+# Preguntas
 
 ## ¿Qué es Obsidian? 
 
@@ -21,7 +23,8 @@ Debido a la naturaleza de las notas en Obsidian (archivos de texto), todo el con
 
 Por otro lado, GitHub permite que si un integrante lo desea, igual cree su propia ramificación del repositorio, por lo que puede mantener respaldado sus notas fácilmente, y estas con igual acceso a otras personas. 
 
-# Cómo instalar Obsidian
+# Tutorial
+## Cómo instalar Obsidian
 
 1) Acceder a https://obsidian.md/
 
@@ -33,7 +36,7 @@ Por otro lado, GitHub permite que si un integrante lo desea, igual cree su propi
 
 3) Instalar Obsidian
 
-# Cómo acceder al contenido
+## Cómo descargar el contenido
 
 1) Acceder al Repositorio en Github https://github.com/esgrima-nueva-orden/Holocron
 ![[Repo.png|457x259]]
@@ -64,19 +67,8 @@ Por otro lado, GitHub permite que si un integrante lo desea, igual cree su propi
 
 ![[ENO Vault.png|605x320]]
 
+## Recordatorio
 
-# Posibles problemas
+Descargar el repositorio crea una copia local de este a tu sistema. Cualquier modificación que hagas a este no se verá reflejado en Github o en la página web. De la misma forma, cualquier actualización al repositorio y a la página web no será reflejado a tu copia local. 
 
-
-### Subir tu propias notas
-
-por redactar
-
-Opcion 1
-- Abrir cuenta github
-- obtener token de acceso
-- configurar obsidian git
-
-Opcion 2
-- Abrir cuenta github
-- Subir por terminal
+Contacta a tu [[Acádemicos#Escribas|Escriba]] de confianza para más consultas.

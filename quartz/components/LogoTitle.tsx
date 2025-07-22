@@ -17,13 +17,14 @@ LogoTitle.css = `
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-bottom: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5; /* quita espacio extra abajo */
 }
 
 /* El logo se adapta automáticamente */
 .logo-title .logo-img {
   width: 100%;
-  max-width: 250px;   /* en pantallas grandes no pasa de 200px */
+  max-width: 150px;   /* en pantallas grandes no pasa de 200px */
   height: auto;
   display: block;
 }
@@ -31,7 +32,7 @@ LogoTitle.css = `
 /* En pantallas pequeñas, se reduce */
 @media (max-width: 768px) {
   .logo-title .logo-img {
-    max-width: 150px;
+    max-width: 100px;
   }
 }
 `

@@ -135,3 +135,11 @@ footer a:hover, .footer a:hover {
   stroke-opacity: 0.7;
 }
 
+/* Ajuste de la barra de búsqueda */
+.search,
+.search-bar {
+  margin-top: -0.5rem;  /* Mueve hacia arriba */
+  margin-bottom: 0.5rem; /* Opcional, reduce espacio extra abajo */
+  position: relative;
+  z-index: 2; /* Por si se superpone con algo */
+}

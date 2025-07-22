@@ -3,4 +3,4 @@
 ### Instructores
 Los instructores son miembros que por su conocimiento ya son capaces de enseñar a otros el curso de iniciación o el curso de formas. 
 ### Escribas
-Los escribas son miembros que tras pasar el curso de formas, tienen las facultades para aportar académicamente en el holocron.
+Los escribas son aquellos miembros con el deber de aportar académicamente a la agrupación. Poseen acceso al uso de Obsidian Sync, Github y la página web institucionales.

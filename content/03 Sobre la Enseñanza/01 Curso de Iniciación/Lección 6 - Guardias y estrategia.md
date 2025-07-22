@@ -1,7 +1,7 @@
 # Guardia Punta Alta
 - ## Soresu
 
-| ![[punta_alta.jpg\|150]] | ![[punta_alta_cruzada.jpg\|150]] | 
+| ![[punta_alta.jpg\|170]] | ![[punta_alta_cruzada.jpg\|150]] | 
 | ------------------------ | -------------------------------- | 
 | ![[soresu_punta_alta.png\|300]]                            |                                  | 
 
