@@ -4,7 +4,7 @@ const LogoTitle: QuartzComponent = () => {
   return (
     <div class="logo-title">
       <a href="/">
-        <img src="./static/logo.png" alt="Logo" class="logo-img" />
+        <img src="/static/isotipo_clear_cropped.png" alt="Logo" class="logo-img" />
       </a>
     </div>
   )

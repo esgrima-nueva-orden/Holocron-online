@@ -1,4 +1,4 @@
-# <center>Guardia Punta Alta</center>
+# Guardia Punta Alta
 - ## Soresu
 
 | ![[punta_alta.jpg\|150]] | ![[punta_alta_cruzada.jpg\|150]] | 
@@ -9,7 +9,7 @@
 
 - ## Djem So
 
-# <center>Guardia Media-Inicial</center>
+# Guardia Media-Inicial
 
 - ## Soresu
 
@@ -26,7 +26,7 @@
 - ## Djem So
 
 ---
-# <center>Guardia Baja</center>
+# Guardia Baja
 
 - ## Soresu
 ![[Guardia_Baja_soresu.png|450]]
@@ -36,7 +36,7 @@
 - ## Djem So
 
 ---
-# <center>Guardia Alta</center>
+# Guardia Alta
 
 - ## Soresu
 

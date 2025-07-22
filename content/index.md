@@ -1,5 +1,5 @@
 ---
-title: "Esgrima Nueva Orden (ENO)"
+title: "Esgrima Nueva Orden"
 
 ---
 

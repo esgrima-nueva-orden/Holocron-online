@@ -46,9 +46,9 @@ h1, h2, h3, h4, h5, h6 {
   /* Glow usando la propiedad currentColor para tomar el color del texto */
   color: inherit; /* para respetar el color definido en HTML */
   text-shadow:
+    0 0 0px currentColor,
     0 0 1px currentColor,
-    0 0 2px currentColor,
-    0 0 5px currentColor,
+    0 0 4px currentColor,
 }
 
 @font-face {
@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
   color: black;
   font-family: 'RebellionItalic', sans-serif;
   font-size: 2.8rem;
-  -webkit-text-stroke: 1px white; /* contorno blanco */
+  -webkit-text-stroke: 0.4px white; /* contorno blanco */
   -webkit-text-fill-color: black;   /* relleno negro */
   margin-bottom: 1.5rem;
 }
@@ -91,3 +91,47 @@ h1, h2, h3, h4, h5, h6 {
   color: #00ff88;               /* verde neón */
   text-shadow: none;            /* sin brillo extra */
 }
+
+/* Footer "Created with Quartz" con fondo sólido negro */
+footer, .footer {
+  background-color: #000;       /* fondo negro sólido */
+  border-radius: 12px;          /* esquinas redondeadas */
+  padding: 10px;
+  box-shadow: none;             /* sin sombras */
+  backdrop-filter: none;        /* sin efecto vidrio */
+  border: 1px solid #333;       /* borde sutil para contraste */
+  text-align: center;           /* centrar texto */
+}
+
+/* Estilo del texto/enlace dentro del footer */
+footer a, .footer a {
+  color: #00ff88;               /* verde neón */
+  text-decoration: none;
+  text-shadow: none;            /* sin brillo */
+  font-weight: bold;
+}
+
+footer a:hover, .footer a:hover {
+  color: #33ffaa;               /* verde más claro al pasar el mouse */
+}
+
+/* Estilo del Graph View para que tenga fondo sólido como el footer */
+.graph, .graph-container {
+  background-color: #000;      /* Fondo negro sólido */
+  border-radius: 12px;         /* Esquinas redondeadas */
+  padding: 10px;               /* Espacio interno */
+  border: 1px solid #333;      /* Borde sutil */
+  box-shadow: none;            /* Sin sombras */
+  backdrop-filter: none;       /* Quita efecto de vidrio */
+}
+
+/* Ajustar nodos y enlaces para que se vean más */
+.graph .node, .graph-container .node {
+  fill: #00ff88;               /* Nodos en verde neón */
+}
+
+.graph .link, .graph-container .link {
+  stroke: #00ff88;             /* Enlaces en verde */
+  stroke-opacity: 0.7;
+}
+

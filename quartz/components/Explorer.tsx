@@ -26,29 +26,27 @@ const defaultOptions: Options = {
   folderDefaultState: "collapsed",
   folderClickBehavior: "link",
   useSavedState: true,
-  mapFn: (node) => {
-    return node
-  },
+  mapFn: (node) => node,
+  filterFn: (node) => true,  // ← muestra todo
   sortFn: (a, b) => {
-    // Sort order: folders first, then files. Sort folders and files alphabeticall
-    if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
-      // numeric: true: Whether numeric collation should be used, such that "1" < "2" < "10"
-      // sensitivity: "base": Only strings that differ in base letters compare as unequal. Examples: a ≠ b, a = á, a = A
-      return a.displayName.localeCompare(b.displayName, undefined, {
-        numeric: true,
-        sensitivity: "base",
-      })
-    }
+	if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+		const nameA = a.slugSegment ?? a.displayName
+		const nameB = b.slugSegment ?? b.displayName
 
-    if (!a.isFolder && b.isFolder) {
-      return 1
-    } else {
-      return -1
-    }
-  },
-  filterFn: (node) => node.slugSegment !== "tags",
-  order: ["filter", "map", "sort"],
+		const numA = parseInt(nameA.match(/^\d+/)?.[0] ?? "9999", 10)
+		const numB = parseInt(nameB.match(/^\d+/)?.[0] ?? "9999", 10)
+
+		if (numA !== numB) return numA - numB
+
+		return nameA.localeCompare(nameB, undefined, { numeric: true, sensitivity: "base" })
+	}
+	if (!a.isFolder && b.isFolder) return 1
+	else return -1
+},
+
 }
+
+
 
 export type FolderState = {
   path: string
