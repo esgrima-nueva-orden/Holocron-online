@@ -1,6 +1,7 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+
 /**
  * Quartz 4 Configuration
  *
@@ -66,9 +67,11 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: true ,
+	  enableDirectives: true}),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.TableOfContents(),
+      Plugin.TableOfContents({
+		  allowHtml: true,}),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
@@ -76,7 +79,9 @@ const config: QuartzConfig = {
     filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
-      Plugin.ComponentResources(),
+      Plugin.ComponentResources({
+  extraCSS: ["styles/custom.scss"],
+}),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
       Plugin.TagPage(),

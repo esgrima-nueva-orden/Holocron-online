@@ -1,3 +1,8 @@
+---
+title: "Forma V Djem So"
+---
+
+
 ## Inspiraciones
 Kunt des fechten. Lagschwer. Joachim Meyer Art Of Combat (2 Manos)
 

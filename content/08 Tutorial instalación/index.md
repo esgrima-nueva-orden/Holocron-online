@@ -1,3 +1,8 @@
+---
+title: "Tutorial de Instalación"
+---
+
+
 ## ¿Qué es Obsidian? 
 
 Obsidian es una aplicación para tomar notas disponible en PC y Android. Todos los archivos se guardan como texto .md (similares a los .txt), por lo es liviano y ampliamente versatil gracias a los distintos plug-ins de la comunidad.

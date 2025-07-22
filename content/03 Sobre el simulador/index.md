@@ -1,3 +1,4 @@
+
 ## Qué es el Simulador
 
 Se considera como Simulador el implemento principal con el cual se entrena que simula ser una espada; en nuestro caso, el Sable de Luz

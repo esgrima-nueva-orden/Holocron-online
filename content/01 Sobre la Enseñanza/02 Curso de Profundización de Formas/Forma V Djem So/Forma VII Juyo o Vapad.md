@@ -8,7 +8,7 @@ Sable doble (Darth Maul)
 ![Juyo|350x500](Darth_Maul-557x855.png)
 
 ## Requisitos
-Haber avanzado significativamente en la [[Forma V (Djem So)]]
+Haber avanzado significativamente en la [[01 Sobre la Enseñanza/02 Curso de Profundización de Formas/Forma V Djem So/index|Forma V Djem So]]
 ### Descripción
 La séptima forma de ENO es el Juyo o Vapad, esta forma se basa en la hoja doble, aunque no existe en la vida real y no tiene una gran funcionalidad es excelente de espectáculo para coreografías.
 

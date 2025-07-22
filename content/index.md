@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: "Esgrima Nueva Orden (ENO)"
+
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+
+Esgrima Nueva Orden es una agrupación sin fines de lucro dedicada a la práctica y enseñanza de esgrima implementando el sable de luz 
+
+![[Black_widescreen_1080.png]]

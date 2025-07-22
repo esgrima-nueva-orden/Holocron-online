@@ -1,3 +1,9 @@
+---
+title: "Forma II Soresu"
+---
+
+
+
 ## Inspiraciones
 El libro de los 5 anillos - Musashi Miyamoto
 
