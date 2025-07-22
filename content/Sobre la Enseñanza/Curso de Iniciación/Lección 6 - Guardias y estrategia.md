@@ -1,5 +1,3 @@
-
----
 # <center>Guardia Punta Alta</center>
 - ## Soresu
 
