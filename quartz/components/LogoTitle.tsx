@@ -1,10 +1,12 @@
-import { QuartzComponent, QuartzComponentConstructor } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-const LogoTitle: QuartzComponent = () => {
+const LogoTitle: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
+  // Asegura que respete el baseUrl (para GitHub Pages)
+  const base = cfg.baseUrl ?? ""
   return (
     <div class="logo-title">
-      <a href="/">
-        <img src="/static/isotipo_clear_cropped.png" alt="Logo" class="logo-img" />
+      <a href={base + "/"}>
+        <img src={`${base}/static/isotipo_clear_cropped.png`} alt="Logo" class="logo-img" />
       </a>
     </div>
   )
