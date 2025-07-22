@@ -14,7 +14,7 @@
 
 
 body {
-  background: url("/static/background.png") no-repeat center center fixed;
+  background: url("./static/background.png") no-repeat center center fixed;
   background-size: cover;
   color: #fff; /* Para que se lea sobre la imagen */
 }
@@ -41,7 +41,7 @@ button:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'StarJedi', sans-serif; /* o la que uses para títulos */
+  font-family: 'arial', sans-serif; /* o la que uses para títulos */
   font-weight: bold;
   /* Glow usando la propiedad currentColor para tomar el color del texto */
   color: inherit; /* para respetar el color definido en HTML */
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @font-face {
   font-family: 'RebellionItalic';
-  src: url('/static/fonts/RebellionItalic-4vR6.ttf') format('truetype');
+  src: url('./static/fonts/RebellionItalic-4vR6.ttf') format('truetype');
   font-weight: normal;
   font-style: italic;
   font-display: swap;
