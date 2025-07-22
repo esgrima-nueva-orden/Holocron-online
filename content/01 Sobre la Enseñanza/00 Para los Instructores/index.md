@@ -1,3 +1,8 @@
+---
+title: Para los Instructores
+---
+
+
 Para miembros nuevos, en primer lugar se debe de introducir la agrupación.
 
 > Esgrima Nueva Orden, o ENO, es una agrupación deportiva sin fines de lucro en la que enseñamos la esgrima con sables de luz.

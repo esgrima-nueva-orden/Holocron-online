@@ -1,5 +1,4 @@
-La primera en enseñarse. Es útil para comenzar los cortes primarios.
-Es varía por cada forma.
+Para comenzar tu entrenamiento en ENO, conocerás tu primera guardia. Es una de las más comúnes y también se le llama como [[Lección 6 - Guardias y estrategia#<center>Guardia Media-Inicial</center>|Guardia Media]]. Te será útil para comenzar los ejercicios durante esta estapa. Su estructura variará por la forma que practiques, pero su uso y posición relativa al cuerpo es la misma.
 
 ## Soresu
 

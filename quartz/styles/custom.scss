@@ -11,3 +11,83 @@
 #verde {
   color: green;
 }
+
+
+body {
+  background: url("/static/background.png") no-repeat center center fixed;
+  background-size: cover;
+  color: #fff; /* Para que se lea sobre la imagen */
+}
+
+/* Bordes y tarjetas con glow */
+.card, .explorer, .toc, header, footer {
+  background-color: rgba(10, 10, 10, 0.8);
+  border: 1px solid #00ffcc;
+  box-shadow: 0 0 15px #00ffcc;
+}
+
+/* Botones brillantes */
+button {
+  background-color: #111;
+  color: #00ffcc;
+  border: 1px solid #00ffcc;
+  text-shadow: 0 0 5px #00ffcc;
+}
+
+button:hover {
+  background-color: #00ffcc;
+  color: #000;
+  box-shadow: 0 0 25px #00ffcc;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'StarJedi', sans-serif; /* o la que uses para títulos */
+  font-weight: bold;
+  /* Glow usando la propiedad currentColor para tomar el color del texto */
+  color: inherit; /* para respetar el color definido en HTML */
+  text-shadow:
+    0 0 1px currentColor,
+    0 0 2px currentColor,
+    0 0 5px currentColor,
+}
+
+@font-face {
+  font-family: 'RebellionItalic';
+  src: url('/static/fonts/RebellionItalic-4vR6.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+
+/* Excluir el título principal (.article-title) del glow general */
+.article-title {
+  text-shadow: none !important;
+  color: white; /* o el color que quieras sin glow */
+}
+
+/* Título principal de la página */
+.article-title {
+  color: black;
+  font-family: 'RebellionItalic', sans-serif;
+  font-size: 2.8rem;
+  -webkit-text-stroke: 1px white; /* contorno blanco */
+  -webkit-text-fill-color: black;   /* relleno negro */
+  margin-bottom: 1.5rem;
+}
+
+/* TOC y Explorador con fondo sólido negro */
+.toc, .explorer {
+  background-color: #000;       /* negro sólido */
+  border-radius: 12px;          /* esquinas redondeadas */
+  padding: 10px;
+  box-shadow: none;             /* sin glow */
+  backdrop-filter: none;        /* sin efecto de vidrio */
+  border: 1px solid #333;       /* borde sutil para dar contraste */
+}
+
+/* Ajuste de enlaces dentro */
+.toc a, .explorer a {
+  color: #00ff88;               /* verde neón */
+  text-shadow: none;            /* sin brillo extra */
+}

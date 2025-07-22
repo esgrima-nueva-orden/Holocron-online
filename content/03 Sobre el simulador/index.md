@@ -1,3 +1,6 @@
+---
+title: Sobre el Simulador
+---
 
 ## Qué es el Simulador
 
