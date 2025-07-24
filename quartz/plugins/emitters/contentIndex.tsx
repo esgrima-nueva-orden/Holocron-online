@@ -19,6 +19,7 @@ export type ContentDetails = {
   richContent?: string
   date?: Date
   description?: string
+  weight?: number        // ← NUEVO
 }
 
 interface Options {
@@ -103,19 +104,24 @@ export const ContentIndex: QuartzEmitterPlugin<Partial<Options>> = (opts) => {
         const slug = file.data.slug!
         const date = getDate(ctx.cfg.configuration, file.data) ?? new Date()
         if (opts?.includeEmptyFiles || (file.data.text && file.data.text !== "")) {
-          linkIndex.set(slug, {
-            slug,
-            filePath: file.data.relativePath!,
-            title: file.data.frontmatter?.title!,
-            links: file.data.links ?? [],
-            tags: file.data.frontmatter?.tags ?? [],
-            content: file.data.text ?? "",
-            richContent: opts?.rssFullHtml
-              ? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
-              : undefined,
-            date: date,
-            description: file.data.description ?? "",
-          })
+		
+		const weight = file.data.frontmatter?.weight ?? 0
+
+		linkIndex.set(slug, {
+		  slug,
+		  filePath: file.data.relativePath!,
+		  title: file.data.frontmatter?.title!,
+		  links: file.data.links ?? [],
+		  tags: file.data.frontmatter?.tags ?? [],
+		  content: file.data.text ?? "",
+		  richContent: opts?.rssFullHtml
+			? escapeHTML(toHtml(tree as Root, { allowDangerousHtml: true }))
+			: undefined,
+		  date: date,
+		  description: file.data.description ?? "",
+		  weight,  // <-- añadimos el weight
+		})
+
         }
       }
 

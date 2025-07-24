@@ -218,16 +218,21 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   )
 
   // calculate color
-  const color = (d: NodeData) => {
-    const isCurrent = d.id === slug
-    if (isCurrent) {
-      return computedStyleMap["--secondary"]
-    } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
-      return computedStyleMap["--tertiary"]
-    } else {
-      return computedStyleMap["--gray"]
-    }
+// Remplaza esta parte de la función color() por esta:
+
+const color = (d: NodeData) => {
+  const isCurrent = d.id === slug
+  if (isCurrent) {
+    return getComputedStyle(document.documentElement).getPropertyValue("--secondary").trim()
+  } else if (visited.has(d.id) || d.id.startsWith("tags/")) {
+    return getComputedStyle(document.documentElement).getPropertyValue("--tertiary").trim()
+  } else {
+    return getComputedStyle(document.documentElement).getPropertyValue("--gray").trim()
   }
+}
+
+
+
 
   function nodeRadius(d: NodeData) {
     const numLinks = graphData.links.filter(
@@ -286,7 +291,10 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         alpha = l.active ? 1 : 0.2
       }
 
-      l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
+      l.color = l.active
+  ? getComputedStyle(document.documentElement).getPropertyValue("--gray").trim()
+  : getComputedStyle(document.documentElement).getPropertyValue("--lightgray").trim()
+
       tweenGroup.add(new Tweened<LinkRenderData>(l).to({ alpha }, 200))
     }
 
@@ -424,7 +432,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       cursor: "pointer",
     })
       .circle(0, 0, nodeRadius(n))
-      .fill({ color: isTagNode ? computedStyleMap["--light"] : color(n) })
+      .fill({ color: isTagNode ? getComputedStyle(document.documentElement).getPropertyValue("--light").trim() : color(n) })
       .on("pointerover", (e) => {
         updateHoverInfo(e.target.label)
         oldLabelOpacity = label.alpha
@@ -466,7 +474,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const linkRenderDatum: LinkRenderData = {
       simulationData: l,
       gfx,
-      color: computedStyleMap["--lightgray"],
+      color: getComputedStyle(document.documentElement).getPropertyValue("--lightgray").trim(),
       alpha: 1,
       active: false,
     }

@@ -1,0 +1,194 @@
+@use "./base.scss"; // Importa los estilos base de Quartz
+
+/* ===========================
+   FUENTES PERSONALIZADAS
+   =========================== */
+
+/* Fuente principal para títulos (RebellionItalic) */
+@font-face {
+  font-family: 'RebellionItalic'; // Nombre interno de la fuente
+  src: url('./static/fonts/RebellionItalic-4vR6.ttf') format('truetype'); // Ruta del archivo
+  font-weight: normal; // Peso estándar
+  font-style: italic;  // Estilo en cursiva
+  font-display: swap;  // Permite usar fuente por defecto mientras carga
+}
+
+/* Fuente para el cuerpo (Oxanium de Google Fonts) */
+@font-face {
+  font-family: 'Oxanium'; // Nombre interno de la fuente
+  src: url('./static/fonts/Oxanium-Regular.ttf') format('truetype'); // Ruta del archivo
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ===========================
+   ESTILOS GENERALES DEL CUERPO
+   =========================== */
+body {
+  background: url("./static/background.png") no-repeat center center fixed; // Fondo con imagen fija
+  background-size: cover;          // La imagen cubre toda la pantalla
+  color: #fff;                     // Texto blanco para contraste
+  font-family: 'Oxanium', sans-serif; // Fuente del cuerpo (Oxanium)
+}
+
+/* ===========================
+   TARJETAS, CABECERA Y PIE DE PÁGINA
+   =========================== */
+.card, .explorer, .toc, header, footer {
+  background-color: rgba(10, 10, 10, 0.8); // Fondo oscuro translúcido
+  border: 1px solid #00ffcc;               // Borde turquesa neón
+  box-shadow: 0 0 15px #00ffcc;            // Brillo turquesa
+}
+
+/* ===========================
+   BOTONES
+   =========================== */
+button {
+  background-color: #111;          // Fondo oscuro
+  color: #00ffcc;                  // Texto turquesa
+  border: 1px solid #00ffcc;       // Borde turquesa
+  text-shadow: 0 0 5px #00ffcc;    // Brillo del texto
+}
+
+button:hover {
+  background-color: #00ffcc;       // Fondo turquesa al pasar
+  color: #000;                     // Texto negro en hover
+  box-shadow: 0 0 25px #00ffcc;    // Brillo más intenso
+}
+
+/* ===========================
+   TÍTULOS (excepto el principal)
+   =========================== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Arial', sans-serif; // Fuente para encabezados secundarios
+  font-weight: bold;                // Negrita
+  color: inherit;                   // Respeta el color que tenga el contenedor
+  text-shadow:                      // Glow basado en el color del texto
+    0 0 1px currentColor,
+    0 0 1px currentColor,
+    0 0 1px currentColor;
+}
+
+/* ===========================
+   TÍTULO PRINCIPAL DEL ARTÍCULO
+   =========================== */
+.article-title {
+  text-shadow: none !important;          // Sin glow
+  color: black;                          // Texto negro
+  font-family: 'RebellionItalic', sans-serif; // Fuente personalizada
+  font-size: 2.8rem;                     // Tamaño grande
+  -webkit-text-stroke: 0.4px white;      // Contorno blanco
+  -webkit-text-fill-color: black;        // Relleno negro
+  margin-bottom: 1.5rem;                 // Espacio inferior
+}
+
+/* ===========================
+   TOC Y EXPLORADOR
+   =========================== */
+.toc, .explorer {
+  background-color: #000;    // Fondo negro sólido
+  border-radius: 12px;       // Esquinas redondeadas
+  padding: 10px;             // Espaciado interno
+  box-shadow: none;          // Sin brillo
+  backdrop-filter: none;     // Sin efecto de vidrio
+  border: 1px solid #333;    // Borde gris oscuro para contraste
+  color: #E79A01			 // Letra amarilla
+}
+
+.toc a, .explorer a {
+  color: #DADADA;            // Links en gris al pasar mouse
+  text-shadow: none;         // Sin brillo adicional
+}
+
+/* ===========================
+   FOOTER
+   =========================== */
+footer, .footer {
+  background-color: #000;    // Fondo negro sólido
+  border-radius: 12px;       // Esquinas redondeadas
+  padding: 10px;             // Espaciado interno
+  box-shadow: none;          // Sin sombras
+  backdrop-filter: none;     // Sin vidrio
+  border: 1px solid #333;    // Borde sutil
+  text-align: center;        // Centrado del texto
+}
+
+footer a, .footer a {
+  color: #00ff88;             // Links verdes
+  text-decoration: none;      // Sin subrayado
+  text-shadow: none;          // Sin brillo
+  font-weight: bold;          // Negrita
+}
+
+footer a:hover, .footer a:hover {
+  color: #33ffaa;             // Verde más claro en hover
+}
+
+/* ===========================
+   GRAPH VIEW
+   =========================== */
+.graph, .graph-container {
+  background-color: #000;    // Fondo negro sólido
+  border-radius: 12px;       // Esquinas redondeadas
+  padding: 10px;             // Espaciado interno
+  border: 1px solid #333;    // Borde gris oscuro
+  box-shadow: none;          // Sin sombra
+  backdrop-filter: none;     // Sin efecto de vidrio
+}
+
+.graph .node, .graph-container .node {
+  fill: #00ff88;             // Nodos en verde neón
+}
+
+.graph .link, .graph-container .link {
+  stroke: #00ff88;           // Enlaces verdes
+  stroke-opacity: 0.7;       // Transparencia para contraste
+}
+
+/* ===========================
+   BARRA DE BÚSQUEDA
+   =========================== */
+.search,
+.search-bar {
+  margin-top: -2rem;        // Ajuste de posición (hacia arriba)
+  margin-bottom: 0.5rem;      // Espaciado inferior
+  position: relative;         // Posicionamiento relativo
+  z-index: 2;                 // Prioridad visual sobre otros elementos
+}
+
+/* ===========================
+   WIKILINKS
+   =========================== */
+   
+/* Texto wikilinks */
+a.internal {
+  color: #E79A01 !important; /*Amarillo*/
+  background: none !important; /* Elimina el fondo de los wikilinks */
+ 
+}
+
+/*  Al pasar el mouse */
+a.internal:hover {
+  color: #DADADA !important; /* Gris */
+  --glow-color: #E79A01; /* Color del brillo (oro por defecto) */
+  --glow-intensity: 5px; /* Intensidad del brillo */
+  text-shadow:  /*Da el brillo*/
+    0 0 var(--glow-intensity) var(--glow-color),
+    0 0 calc(var(--glow-intensity) * 1.5) var(--glow-color);
+}
+
+/* ===========================
+   Vistas previas
+   =========================== */
+
+/* Desactiva las vistas previas en hover */
+.internal-link {
+  pointer-events: none !important; /* Evita cualquier interacción */
+}
+
+/* Opcional: Si las vistas previas persisten, desactiva el tooltip */
+.tooltip, [data-tooltip], .hover-preview {
+  display: none !important;
+  visibility: hidden !important;
+}

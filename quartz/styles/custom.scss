@@ -1,145 +1,273 @@
-@use "./base.scss";
+@use "./base.scss"; // Importa los estilos base de Quartz
 
-// put your custom CSS here!
-
-#rojo {
-  color: red;
-}
-#azul {
-  color: blue;
-}
-#verde {
-  color: green;
+:root {
+  --secondary: #E79A01; /* amarillo */
+  --tertiary: #DADADA; /* gris claro */
+  --gray: #888888;     /* gris medio */
+  --lightgray: #f0f0f0; /* gris muy claro */
+  --dark: #333333;
+  --bodyFont: "Oxanium", sans-serif;
 }
 
 
-body {
-  background: url("./static/background.png") no-repeat center center fixed;
-  background-size: cover;
-  color: #fff; /* Para que se lea sobre la imagen */
-}
 
-/* Bordes y tarjetas con glow */
-.card, .explorer, .toc, header, footer {
-  background-color: rgba(10, 10, 10, 0.8);
-  border: 1px solid #00ffcc;
-  box-shadow: 0 0 15px #00ffcc;
-}
+/* ===========================
+   FUENTES PERSONALIZADAS
+   =========================== */
 
-/* Botones brillantes */
-button {
-  background-color: #111;
-  color: #00ffcc;
-  border: 1px solid #00ffcc;
-  text-shadow: 0 0 5px #00ffcc;
-}
-
-button:hover {
-  background-color: #00ffcc;
-  color: #000;
-  box-shadow: 0 0 25px #00ffcc;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'arial', sans-serif; /* o la que uses para títulos */
-  font-weight: bold;
-  /* Glow usando la propiedad currentColor para tomar el color del texto */
-  color: inherit; /* para respetar el color definido en HTML */
-  text-shadow:
-    0 0 0px currentColor,
-    0 0 1px currentColor,
-    0 0 4px currentColor,
-}
-
+/* Fuente principal para títulos (RebellionItalic) */
 @font-face {
-  font-family: 'RebellionItalic';
-  src: url('./static/fonts/RebellionItalic-4vR6.ttf') format('truetype');
+  font-family: 'RebellionItalic'; // Nombre interno de la fuente
+  src: url('./static/fonts/RebellionItalic-4vR6.ttf') format('truetype'); // Ruta del archivo
+  font-weight: normal; // Peso estándar
+  font-style: italic;  // Estilo en cursiva
+  font-display: swap;  // Permite usar fuente por defecto mientras carga
+}
+
+/* Fuente para el cuerpo (Oxanium de Google Fonts) */
+@font-face {
+  font-family: 'Oxanium'; // Nombre interno de la fuente
+  src: url('./static/fonts/Oxanium-Regular.ttf') format('truetype'); // Ruta del archivo
   font-weight: normal;
-  font-style: italic;
+  font-style: normal;
   font-display: swap;
 }
 
+/* ===========================
+   ESTILOS GENERALES DEL CUERPO
+   =========================== */
+body {
+  background: url("./static/background.png") no-repeat center center fixed; // Fondo con imagen fija
+  background-size: cover;          // La imagen cubre toda la pantalla
+  color: #fff;                     // Texto blanco para contraste
+  font-family: 'Oxanium', sans-serif; // Fuente del cuerpo (Oxanium)
+}
 
-/* Excluir el título principal (.article-title) del glow general */
+/* ===========================
+   CONTENIDO PRINCIPAL (ARTÍCULO)
+   =========================== */
+article  {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  border-radius: 12px !important;
+  padding: 25px !important;
+  box-shadow: 0 0 15px rgba(231, 154, 1, 0.4) !important;
+  border: 1px solid #E79A01 !important;
+  margin: 20px auto !important;
+  max-width: 100%; /* Ajusta según necesidad */
+}
+
+/* Asegura que las imágenes dentro del artículo no excedan el ancho */
+article img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+
+/* ===========================
+   TÍTULOS (excepto el principal)
+   =========================== */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oxanium', sans-serif; // Fuente para encabezados secundarios
+  font-weight: bold;                // Negrita
+  color: inherit;                   // Respeta el color que tenga el contenedor
+  text-shadow:                      // Glow basado en el color del texto
+    0 0 1px currentColor,
+    0 0 1px currentColor,
+    0 0 1px currentColor;
+}
+
+/* ===========================
+   TÍTULO PRINCIPAL DEL ARTÍCULO
+   =========================== */
 .article-title {
-  text-shadow: none !important;
-  color: white; /* o el color que quieras sin glow */
+  text-shadow: none !important;          // Sin glow
+  color: black;                          // Texto negro
+  font-family: 'RebellionItalic', sans-serif; // Fuente personalizada
+  font-size: 2.8rem;                     // Tamaño grande
+  -webkit-text-stroke: 0.1px white;      // Contorno blanco
+  -webkit-text-fill-color: black;        // Relleno negro
+  margin-bottom: 1.5rem;                 // Espacio inferior
 }
 
-/* Título principal de la página */
-.article-title {
-  color: black;
-  font-family: 'RebellionItalic', sans-serif;
-  font-size: 2.8rem;
-  -webkit-text-stroke: 0.4px white; /* contorno blanco */
-  -webkit-text-fill-color: black;   /* relleno negro */
-  margin-bottom: 1.5rem;
+/* ===========================
+   EXPLORADOR
+   =========================== */
+
+/* Contenedor principal para separación visual */
+.sidebar-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px; /* Espacio entre TOC y Explorer */
 }
 
-/* TOC y Explorador con fondo sólido negro */
-.toc, .explorer {
-  background-color: #000;       /* negro sólido */
-  border-radius: 12px;          /* esquinas redondeadas */
-  padding: 10px;
-  box-shadow: none;             /* sin glow */
-  backdrop-filter: none;        /* sin efecto de vidrio */
-  border: 1px solid #333;       /* borde sutil para dar contraste */
+/* Explorer - Navegación de archivos */
+.explorer {
+  background-color: rgba(0, 0, 0, 0.9);    // Fondo negro más opaco
+  border-radius: 12px;       // Esquinas redondeadas
+  padding: 15px;             // Espaciado interno aumentado
+  box-shadow: 0 0 10px rgba(231, 154, 1, 0.3); // Sutil brillo amarillo
+  border: 1px solid #E79A01; // Borde amarillo
+  margin-top: -2rem;        // Ajuste de posición (hacia arriba)
+  margin-bottom: 0.5rem;      // Espaciado inferior
+  font-family: 'Oxanium', sans-serif; // Fuente para encabezados secundarios
+
 }
 
-/* Ajuste de enlaces dentro */
-.toc a, .explorer a {
-  color: #00ff88;               /* verde neón */
-  text-shadow: none;            /* sin brillo extra */
+/* Estilos compartidos para enlaces */
+.explorer a,
+.tree-item a {
+  color: #E79A01 !important; // Amarillo consistente con wikilinks
+  background: none !important; // Sin fondo
+  text-decoration: none !important; // Sin subrayado
+  transition: all 0.3s ease; // Transición suave
+  font-family: 'Oxanium', sans-serif; // Fuente para encabezados secundarios
+
 }
 
-/* Footer "Created with Quartz" con fondo sólido negro */
+/* Efecto hover para enlaces */
+.toc a:hover, 
+.explorer a:hover,
+.tree-item a:hover {
+  color: #DADADA !important; // Gris claro al pasar mouse
+  text-shadow:              // Efecto de brillo idéntico a wikilinks
+    0 0 5px #E79A01,
+    0 0 15px #E79A01;
+}
+
+
+
+/* ===========================
+   TOC
+   =========================== */
+/* TOC - Tabla de Contenidos */
+.toc {
+  background-color: rgba(0, 0, 0, 0.9);    // Fondo negro más opaco
+  border-radius: 12px;       // Esquinas redondeadas
+  padding: 15px;             // Espaciado interno aumentado
+  box-shadow: 0 0 10px rgba(231, 154, 1, 0.3); // Sutil brillo amarillo
+  border: 1px solid #E79A01; // Borde amarillo
+  margin-bottom: 0px;       // Espacio inferior para separación
+}
+
+/* Estilos para enlaces */
+.toc a, 
+.tree-item a {
+  color: #E79A01 !important; // Amarillo consistente con wikilinks
+  background: none !important; // Sin fondo
+  text-decoration: none !important; // Sin subrayado
+  transition: all 0.3s ease; // Transición suave
+}
+
+/* Efecto hover para enlaces */
+.toc a:hover,
+.tree-item a:hover {
+  color: #DADADA !important; // Gris claro al pasar mouse
+  text-shadow:              // Efecto de brillo idéntico a wikilinks
+    0 0 5px #E79A01,
+    0 0 15px #E79A01;
+}
+
+
+/* ===========================
+   FOOTER
+   =========================== */
 footer, .footer {
-  background-color: #000;       /* fondo negro sólido */
-  border-radius: 12px;          /* esquinas redondeadas */
-  padding: 10px;
-  box-shadow: none;             /* sin sombras */
-  backdrop-filter: none;        /* sin efecto vidrio */
-  border: 1px solid #333;       /* borde sutil para contraste */
-  text-align: center;           /* centrar texto */
+  background-color: #000;    // Fondo negro sólido
+  border-radius: 12px;       // Esquinas redondeadas
+  padding: 10px;             // Espaciado interno
+  box-shadow: none;          // Sin sombras
+  backdrop-filter: none;     // Sin vidrio
+  border: 1px solid #333;    // Borde sutil
+  text-align: center;        // Centrado del texto
 }
 
-/* Estilo del texto/enlace dentro del footer */
 footer a, .footer a {
-  color: #00ff88;               /* verde neón */
-  text-decoration: none;
-  text-shadow: none;            /* sin brillo */
-  font-weight: bold;
+  color: #E79A01 !important; /*Amarillo*/
+  background: none !important; /* Elimina el fondo de los wikilinks */
 }
 
+/*  Al pasar el mouse */
 footer a:hover, .footer a:hover {
-  color: #33ffaa;               /* verde más claro al pasar el mouse */
+  color: #DADADA !important; /* Gris */
+  --glow-color: #E79A01; /* Color del brillo (oro por defecto) */
+  --glow-intensity: 5px; /* Intensidad del brillo */
+  text-shadow: /*Da el brillo*/
+    0 0 var(--glow-intensity) var(--glow-color),
+    0 0 calc(var(--glow-intensity) * 1.5) var(--glow-color);
 }
 
-/* Estilo del Graph View para que tenga fondo sólido como el footer */
+/* ===========================
+   GRAPH VIEW
+   =========================== */
 .graph, .graph-container {
-  background-color: #000;      /* Fondo negro sólido */
-  border-radius: 12px;         /* Esquinas redondeadas */
-  padding: 10px;               /* Espacio interno */
-  border: 1px solid #333;      /* Borde sutil */
-  box-shadow: none;            /* Sin sombras */
-  backdrop-filter: none;       /* Quita efecto de vidrio */
+  background-color: rgba(0, 0, 0, 0.9);        // Fondo negro semitransparente como los demás
+  border-radius: 12px;                         // Esquinas redondeadas
+  padding: 15px;                               // Espaciado consistente
+  border: 1px solid #E79A01;                   // Borde amarillo
+  box-shadow: 0 0 10px rgba(231, 154, 1, 0.3); // Sombra amarilla sutil
+  backdrop-filter: none;                       // Sin efecto vidrio
 }
 
-/* Ajustar nodos y enlaces para que se vean más */
-.graph .node, .graph-container .node {
-  fill: #00ff88;               /* Nodos en verde neón */
+/* ===========================
+   BARRA DE BÚSQUEDA
+   =========================== */
+.search-container {
+  background-color: rgba(0, 0, 0, 0.9) !important;
+  border: 1px solid #E79A01 !important;
+  box-shadow: 0 0 10px rgba(231, 154, 1, 0.3) !important;
+  border-radius: 12px !important;
+  padding: 12px !important;
+  margin: 0.5rem 0 !important;
 }
 
-.graph .link, .graph-container .link {
-  stroke: #00ff88;             /* Enlaces en verde */
-  stroke-opacity: 0.7;
-}
-
-/* Ajuste de la barra de búsqueda */
-.search,
 .search-bar {
-  margin-top: -0.5rem;  /* Mueve hacia arriba */
-  margin-bottom: 0.5rem; /* Opcional, reduce espacio extra abajo */
-  position: relative;
-  z-index: 2; /* Por si se superpone con algo */
+  background: transparent !important;
+  color: #fff !important;
+  border: none !important;
+  font-family: 'Oxanium', sans-serif !important;
+}
+
+.search-bar::placeholder {
+  color: #b8b8b8 !important;
+}
+
+.search-button {
+  background-color: rgba(17, 17, 17, 0.8) !important;
+  color: #E79A01 !important;
+  border: 1px solid #E79A01 !important;
+  border-radius: 8px !important;
+  padding: 8px 16px !important;
+  text-shadow: 0 0 3px #E79A01 !important;
+  transition: all 0.3s ease !important;
+}
+
+.search-button:hover {
+  background-color: rgba(231, 154, 1, 0.2) !important;
+  box-shadow: 0 0 12px #E79A01 !important;
+}
+
+/* Icono de búsqueda */
+.search-button svg.search-path {
+  stroke: #E79A01 !important;
+}
+
+/* ===========================
+   WIKILINKS
+   =========================== */
+   
+/* Texto wikilinks */
+a.internal {
+  color: #E79A01 !important; /*Amarillo*/
+  background: none !important; /* Elimina el fondo de los wikilinks */
+}
+
+/*  Al pasar el mouse */
+a.internal:hover {
+  color: #DADADA !important; /* Gris */
+  --glow-color: #E79A01; /* Color del brillo (oro por defecto) */
+  --glow-intensity: 5px; /* Intensidad del brillo */
+  text-shadow: /*Da el brillo*/
+    0 0 var(--glow-intensity) var(--glow-color),
+    0 0 calc(var(--glow-intensity) * 1.5) var(--glow-color);
 }
