@@ -271,3 +271,42 @@ a.internal:hover {
     0 0 var(--glow-intensity) var(--glow-color),
     0 0 calc(var(--glow-intensity) * 1.5) var(--glow-color);
 }
+
+
+/* ===========================
+   BREADCRUMB
+   =========================== */
+.breadcrumb-container {
+  background-color: rgba(0, 0, 0, 0.9);    // Fondo negro opaco (igual a TOC y Explorer)
+  border-radius: 12px;                     // Bordes redondeados
+  padding: 10px 15px;                       // Espaciado interno
+  margin-bottom: 1rem;                      // Separación con otros elementos
+  box-shadow: 0 0 10px rgba(231, 154, 1, 0.3); // Brillo amarillo sutil
+  border: 1px solid #E79A01;               // Borde amarillo
+  display: flex;
+  flex-wrap: wrap;                          // Permite que se acomode en pantallas pequeñas
+  align-items: center;
+  font-family: 'Oxanium', sans-serif;
+}
+
+/* Estilos para cada elemento del breadcrumb */
+.breadcrumb-container a {
+  color: #E79A01 !important;   // Texto amarillo
+  text-decoration: none;
+  transition: all 0.3s ease;
+  font-weight: 500;
+}
+
+.breadcrumb-container a:hover {
+  color: #DADADA !important;   // Gris claro al pasar
+  text-shadow:
+    0 0 5px #E79A01,
+    0 0 15px #E79A01;
+}
+
+/* Separadores (el ❯) */
+.breadcrumb-container p {
+  margin: 0 0.5rem;
+  color: #E79A01;
+  opacity: 0.6;
+}
