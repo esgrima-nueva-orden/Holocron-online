@@ -1,3 +1,8 @@
+---
+weight: 10
+---
+
+
 ## <font color="#245bdb">Padawan</font>
 Recién iniciado, eligió el camino de la luz
 -  Después de entrenar por un tiempo, una vez la persona decide unirse como miembro, tiene la opción de elegir su camino de la fuerza (Luminoso u Oscuro)

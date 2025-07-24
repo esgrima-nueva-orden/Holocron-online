@@ -3,7 +3,7 @@ title: Bienvenida
 ---
 ![[Black_widescreen_1080.png]]
 
-¡Bienvenido al sitio web de **Esgrima Nueva Orden**! Aquí podrás acceder a todos los contenidos teóricos de nuestra agrupación, como también conocer más de nosotros.
+¡Bienvenido al sitio web de **Esgrima Nueva Orden**! Aquí podrás  conocer sobre nuestra agrupación, como también revisar contenidos teóricos de nuestra enseñanza.
 
 Revisa los siguientes artículos:
 - [[Quienes somos/index|Quienes somos]]
@@ -13,4 +13,9 @@ Revisa los siguientes artículos:
 - [[Sobre el Combate/index|Sobre el Combate]]
 - [[Tutorial instalación/index|Tutorial Descarga de copia local]]
 
+# Entrenamientos
+
+Recuerda que nuestros entrenamientos son todos los **sábados** de **4pm a 6pm** en la **Universidad Santo Tomás** de **Puerto Montt**
+
+![[santo_tomas_ubicacion.png|300]]
 

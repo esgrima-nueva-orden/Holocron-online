@@ -1,3 +1,9 @@
+---
+weight: 30
+---
+
+
+
 ### Alumnos
 - Los alumnos son los miembros de ENO que están siendo instruidos en los cursos de Iniciación o de cursos de formas.
 ### Instructores
