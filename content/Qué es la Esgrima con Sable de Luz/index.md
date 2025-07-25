@@ -34,20 +34,21 @@ Actualmente es un deporte con presencia internacional, con diversas escuelas, re
 
 ### **3. La escena en Chile**
 
-- Breve repaso de agrupaciones y academias que existen (por región o ciudad).
-    
-- Destacar que cada una tiene un enfoque propio (competitivo, recreativo, coreográfico).
-    
-- Mencionar torneos o encuentros que ya se han realizado en el país (aunque sean informales).
-    
-- Posible gráfico o tabla con fechas/eventos (línea de tiempo).
-    
+En Chile, esta disciplina lleva años siendo practicada. Existen varias agrupaciones, cada uno con su propio enfoque. Algunas de estas son:
+
+- Esgrima Jedi Chile
+- Alianza Kyber Chile
+- Academia Jedi Chile
+- Rebel Conce
+- Club Nueva Fuerza Valdivia
+- Lobos de lothal Rancagua
+- Saber Guild Chile
+
+Se han realizado eventos donde más de una agrupación se ha reunido. Los más destacables son las instancias como torneos, donde se pone a prueba la práctica y enseñanza de cada una.
 
 
 ### **4. Conclusión / Estado actual**
 
-- Resumir que es un deporte joven y en crecimiento.
-    
-- Invitar a descubrirlo, participar y unirse a alguna agrupación local.
-    
-- Dejar en claro que, aunque no hay una verdad absoluta sobre cómo se practica, todas las formas comparten la misma pasión.
+La esgrima con sable de luz es todavía una disciplina joven, pero en constante crecimiento, tanto en Chile como en el resto del mundo. Su atractivo radica en que no existe una única manera de practicarla: cada agrupación aporta su estilo, desde entrenamientos recreativos hasta competencias deportivas con reglamentos oficiales.
+
+Más allá de las diferencias, todas las versiones comparten una misma motivación: revivir la fantasía de Star Wars mientras se fomenta el deporte, la técnica y la comunidad. Si alguna vez soñaste con empuñar un sable de luz, ahora tienes la oportunidad de hacerlo realidad.

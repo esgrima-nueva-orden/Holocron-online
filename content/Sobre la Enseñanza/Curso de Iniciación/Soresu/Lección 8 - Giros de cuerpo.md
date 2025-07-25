@@ -1,4 +1,0 @@
-## Giro Continuo
-
-
-## Giro Discontinuo

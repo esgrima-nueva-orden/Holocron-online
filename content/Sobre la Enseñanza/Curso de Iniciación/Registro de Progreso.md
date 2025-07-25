@@ -1,16 +1,20 @@
+---
+weight: 1
+---
 Nombre: 
 Fecha de Ingreso:
 
-| Lección   | En Progreso | Pulido |  | Aprobado |  Puede enseñar   | 
-| --------- | ----------- | ------ | -------- | ------------- | --- |
-| Lección 1 |             |        |          |               |     |
-| Lección 2 |             |        |          |               |     |
-| Lección 3 |             |        |          |               |     |
-| Lección 4 |             |        |          |               |     |
-| Lección 5 |             |        |          |               |     |
-| Lección 6 |             |        |          |               |     |
-| Lección 7 |             |        |          |               |     |
-| Lección 8 |             |        |          |               |     |
+| Lección                                 | En Progreso | Pulido |     | Aprobado | Puede enseñar |
+| --------------------------------------- | ----------- | ------ | --- | -------- | ------------- |
+| [[Lección 1 - Sobre el Sable de Luz]]   |             |        |     |          |               |
+| [[Lección 2 - Guardia inicial]]         |             |        |     |          |               |
+| [[Lección 3 - Cortes primarios]]        |             |        |     |          |               |
+| [[Lección 4 - Desplazamientos]]         |             |        |     |          |               |
+| [[Lección 5 - Spins de Sable]]          |             |        |     |          |               |
+| [[Lección 6 - Bloqueos]]                |             |        |     |          |               |
+| [[Lección 7 - Guardias y estrategia]]   |             |        |     |          |               |
+| [[Lección 8 - Introducción al combate]] |             |        |     |          |               |
+| [[Lección 9 - Giros de cuerpo]]         |             |        |     |          |               |
 
 
 Esta tabla permite registrar el progreso del practicante en cada una de las distintas lecciones en nuestra Agrupación. Cada una de las casillas deberá ser rellenada con una X o con un Tic, ambos significando lo mismo.

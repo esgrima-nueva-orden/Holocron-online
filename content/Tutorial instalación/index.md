@@ -72,4 +72,4 @@ Por otro lado, GitHub permite que si un integrante lo desea, igual cree su propi
 
 Descargar el repositorio crea una copia local de este a tu sistema. Cualquier modificación que hagas a este no se verá reflejado en Github o en la página web. De la misma forma, cualquier actualización al repositorio y a la página web no será reflejado a tu copia local. 
 
-Contacta a tu [[Acádemicos#Escribas|Escriba]] de confianza para más consultas.
+Contacta a tu [[Académicos#Escribas|Escriba]] de confianza para más consultas.

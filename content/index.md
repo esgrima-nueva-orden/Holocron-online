@@ -15,7 +15,7 @@ Revisa los siguientes artículos:
 
 # Entrenamientos
 
-Recuerda que nuestros entrenamientos son todos los **sábados** de **4pm a 6pm** en la **Universidad Santo Tomás** de **Puerto Montt**
+Nuestros entrenamientos son todos los **sábados** de **4pm a 6pm** en la **Universidad Santo Tomás** de **Puerto Montt**
 
 ![[santo_tomas_ubicacion.png|300]]
 

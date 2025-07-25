@@ -1,7 +1,9 @@
 ---
 title: Para los Instructores
-weight: 10
+weight: 30
 ---
+
+Consejos generales para la función de [[Académicos#Instructores|Instructor]].
 
 
 Para miembros nuevos, en primer lugar se debe de introducir la agrupación.
