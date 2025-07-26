@@ -1,35 +1,69 @@
+**Djem So** es la quinta forma de combate de nuestra agrupación, un estilo que combina **presión, contraataque y dominio del espacio**. Aunque a menudo se percibe como una forma centrada únicamente en la fuerza, su verdadero enfoque es **aprovechar las acciones del oponente para generar oportunidades**, castigando errores con contundencia y cerrando combates con **ataques efectivos y rápidos**.
+
+Djem So no solo ataca: ejerce presión constante, **forzando al adversario a cometer errores** o creando aberturas mediante bloqueos y desvíos que convierten la defensa en un contraataque inmediato. Este estilo aprovecha también técnicas propias de **espadas con cruceta**, utilizando la empuñadura para controlar o desviar, adaptando estos recursos al sable de luz.
+
 ---
-title: "Forma V Djem So"
+
+**Sugerencia de imagen aquí:**
+
+- Fotograma o arte conceptual de **Anakin Skywalker en guardia baja o ejecutando un ataque poderoso**, transmitiendo la agresividad del estilo.
+    
+- Imagen de un **practicante ejecutando un Meisterhau (golpe maestro)** o una **guardia abierta de langschwert**, para reflejar su raíz histórica.
+    
+
 ---
 
+#### Inspiración histórica
 
-## Inspiraciones
-Kunt des fechten. Lagschwer. Joachim Meyer Art Of Combat (2 Manos)
+Djem So toma directamente sus fundamentos del **Kunst des Fechtens (Arte de la Esgrima)**, especialmente del **Blossfechten** (combate sin armadura) propio de la práctica moderna de HEMA. Sus bases no son adaptadas, sino **aplicadas de forma casi íntegra** al sable de luz. Entre los elementos clave destacan:
 
-#### Maestro Notable en Star Wars
+- **Guardias tradicionales y Vier Legen (cuatro posiciones fundamentales)**.
+    
+- **Desplazamientos tácticos y teoría de las fases del combate** (_Zufechten, Krieg y Abzug_).
+    
+- **Los Meisterhau (golpes maestros)**, que permiten romper guardias, dominar líneas y crear oportunidades de ataque devastadoras.
+    
 
-<span style="background:#40a9ff">Anakin Skywalker</span>
+Además, la influencia de **Joachim Meyer y otros maestros de la tradición alemana** aporta el dinamismo característico del estilo, combinando técnica con agresividad controlada.
 
-![Djem So|400x500](Anakin_Skywalker_RotS.png)
+---
 
-### Descripción
-La quinta forma de ENO es el Djem So, 
+**Sugerencia de imagen aquí:**
 
-#### Medidas del sable
+- Grabado o ilustración de **Joachim Meyer practicando langschwert** (puede ser una reproducción de un manuscrito).
+    
+- Imagen comparativa de una **guardia de langschwert y una pose de Djem So con sable de luz**, para mostrar el vínculo histórico.
+    
 
-<font color="#ffff00">(A dos manos)</font>
-- Tamaño Empuñadura 30 cm aproximadamente
-- Tamaño Hoja 70 cm aproximadamente
-- Tamaño total 100 cm o 1 metro
+---
 
-<font color="#ffff00">(A una mano)</font> (MODIFICAR djem so UNA MANO)
-- Tamaño Empuñadura 25 cm aproximadamente
-- Tamaño Hoja 60 cm aproximadamente
-- Tamaño total 85 cm
+#### Estilo visual y carácter
 
+En **coreografías**, Djem So proyecta una imagen **agresiva y dominante**, con movimientos amplios, rápidos y encadenados que evocan las coreografías de las **precuelas de Star Wars**. Se usan **guardias abiertas y posturas bajas** que transmiten confianza, intensidad y, a menudo, un toque de agresividad teatral, siguiendo la impronta de **Anakin Skywalker**, su exponente más icónico.
 
-# Técnicas del Djem So: Los Meisterhau
+En **combate competitivo**, es una de las formas más populares gracias a su velocidad, potencia y versatilidad. Técnicas como el **Zwerchau (golpe cruzado)**, junto con el uso de la **empuñadura para bloquear**, le otorgan un carácter distintivo que pocos estilos pueden igualar.
 
+---
 
+**Sugerencia de imagen aquí:**
 
-## Primera técnica: Golpe Fuerte
+- Foto de un **combate real de la agrupación utilizando Djem So**, resaltando una acción agresiva como un **Zwerchau o un contraataque dinámico**.
+    
+- Detalle de un **sable con cruceta** usado en práctica, destacando cómo potencia las técnicas.
+    
+
+---
+
+#### Perfil del practicante
+
+Djem So es ideal para practicantes que desean **dominar el combate a dos manos** y explorar una aproximación más **agresiva y física** al sable de luz. Aunque requiere precisión técnica, su enfoque en la presión y el ritmo lo hace atractivo para quienes buscan un estilo que brille tanto en **torneos de combate** como en **exhibiciones dinámicas**.
+
+#### Medidas recomendadas del sable
+
+- **Empuñadura:** ~30 cm
+    
+- **Hoja:** ~70 cm
+    
+- **Longitud total:** ~1 metro
+    
+- Se recomienda el uso de **espadas con cruceta**, disponibles en el mercado, para ejecutar correctamente los **Meisterhau** y otras técnicas de control. Aunque es posible usar empuñaduras simples, estas limitan parte del potencial técnico del estilo.

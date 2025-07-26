@@ -12,9 +12,9 @@ El **Curso Avanzado de Formas** está orientado a practicantes que ya han comple
 
 A lo largo del curso se estudian a fondo las formas principales [[Forma II Makashi|Makashi]], [[Forma III Soresu|Soresu]] y [[Forma V Djem So|Djem So]], llevadas a un nivel de mayor exigencia y complejidad. Además, se introducen estilos avanzados que requieren bases sólidas en dichas formas:
 
-- [[Forma VI Jar Kai]]: Combate con doble sable, que se complementa con fundamentos de [[Forma III Soresu|Soresu]].
+- [[Forma VI Jar Kai]]: Combate con doble sable, que se complementa con fundamentos de [[Forma III Soresu|Soresu]]. Inspirada en el Niten Ichi Ryu.
     
-- [[Forma VII Juyo o Vapad]]: Dominio del sable doble, apoyado en técnicas de [[Forma V Djem So|Djem So]].
+- [[Forma VII Juyo o Vapad]]: Dominio del sable doble, apoyado en técnicas de [[Forma V Djem So|Djem So]] y en principios experimentales de esta arma.
 
 El entrenamiento incluye:
 
