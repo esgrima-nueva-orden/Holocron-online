@@ -10,6 +10,7 @@ Revisa los siguientes artículos:
 - [[Qué es la Esgrima con Sable de Luz/index|Qué es la Esgrima con Sable de Luz]]
 - [[Sobre la Enseñanza/Curso de Iniciación/index|Curso de Iniciación]]
 - [[Sobre la Enseñanza/Curso de Profundización de Formas/index|Curso de Profundización de Formas]]
+- [[Sobre la Enseñanza/Untitled/index|Curso Avanzado de Formas]]
 - [[Sobre el Combate/index|Sobre el Combate]]
 - [[Tutorial instalación/index|Tutorial Descarga de copia local]]
 

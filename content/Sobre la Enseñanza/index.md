@@ -8,5 +8,5 @@ weight: 40
 - [[Sobre la Enseñanza/Nuestras Formas de Combate/index|Nuestras Formas de Combate]]
 - [[Sobre la Enseñanza/Curso de Iniciación/index|Curso de Iniciación]]
 - [[Sobre la Enseñanza/Curso de Profundización de Formas/index|Curso de Profundización de Formas]]
-- [[Sobre la Enseñanza/Para los Instructores/index|Para los Instructores]]
-- [[Sobre la Enseñanza/Pendientes/index|Pendientes]]
+- [[_Para los Instructores/index|Para los Instructores]]
+- [[_Pendientes/index|Pendientes]]

@@ -2,6 +2,7 @@
 
 ---
 
+En tu primera Lección conocerás lo que es el Sable de luz, sus partes y ciertos aspectos marciales importantes.
 ## Qué es el Sable de Luz
 
 El **Sable de Luz** es un implemento diseñado para el aprendizaje y práctica de disciplinas inspiradas en la esgrima y el combate coreográfico. Aunque su origen conceptual proviene del universo de _Star Wars_, actualmente existen modelos diseñados específicamente para entrenamiento, duelos y competiciones, fabricados con materiales resistentes y seguros.

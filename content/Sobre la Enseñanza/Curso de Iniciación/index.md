@@ -28,5 +28,5 @@ Una vez aprobado el curso, se le reconocerá al Alumno con una graduación simb�
 
 - El alumno debe ser mayor de 12 años o cercano. Menores de 15 años deben ser acompañados por su apoderado en **todo** momento.
 - Condiciones médicas o psicológicas del alumno deben ser informadas para tomar las precauciones pertinentes.
-- El alumno puede traer su propio Sable de luz, tanto [[Nivel 1 - Sable Casero|casero]], como uno [[Nivel 2 - Sable de Luz| de Combate]]. En su defecto, la agrupación le prestará uno. De igual forma, se recomienda asistir con guantes acolchados o con agarre.
+- El alumno puede traer su propio Sable de luz, tanto [[Sable Casero|casero]], como uno [[Sable de Luz| de Combate]]. En su defecto, la agrupación le prestará uno. De igual forma, se recomienda asistir con guantes acolchados o con agarre.
 - Implementos como sables, careta y guantes pueden ser prestados por la agrupación, según disponibilidad.

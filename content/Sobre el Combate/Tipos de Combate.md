@@ -4,7 +4,7 @@
 
 El combate amistoso se define como el enfrentamiento con el propósito de jugar y poder experimentar el combate de forma segura. 
 
-Para este contexto, el simulador deberá de contar con algún revestimiento de espuma. Para el Simulador [[Nivel 1 - Sable Casero| Nivel 1]], deberá de utilizar un "Fideo de Piscina" o el "[[Protector de Espuma ENO]]".
+Para este contexto, el simulador deberá de contar con algún revestimiento de espuma. Para el Simulador [[Sable Casero| Nivel 1]], deberá de utilizar un "Fideo de Piscina" o el "[[Protector de Espuma ENO]]".
 
 ### Combate avanzado
 

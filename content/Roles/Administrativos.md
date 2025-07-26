@@ -2,10 +2,7 @@
 weight: 20
 ---
 
-
-
 Estos roles son aquellos que poseen una atribución decisiva en la agrupación.
-
 
 ## Presidente
 Aquel elegido democráticamente por los [[#Miembros]] de la agrupación. Su función es la de representar a la agrupación ante entes externos como otras agrupaciones, entrevistas, reuniones, etc. Sólo puede haber 1 presidente. El presidente debe velar por el orden y buen trato en la agrupación. Cualquier inquietud o moción debe ser respondida por él. Si existen propuestas de cambios, el presidente debe organizar una votación para crear una resolución.
@@ -21,4 +18,5 @@ Aquel elegido por el [[#Presidente]]. Su función es la de apoyar al [[#Presiden
  
 ## Encargado Redes Sociales
 
-## Miembros
+
+## Integrante

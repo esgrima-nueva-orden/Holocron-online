@@ -38,7 +38,6 @@ En Chile, esta disciplina lleva años siendo practicada. Existen varias agrupaci
 
 - Esgrima Jedi Chile
 - Alianza Kyber Chile
-- Academia Jedi Chile
 - Rebel Conce
 - Club Nueva Fuerza Valdivia
 - Lobos de lothal Rancagua

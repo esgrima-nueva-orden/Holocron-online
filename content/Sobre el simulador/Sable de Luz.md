@@ -11,6 +11,8 @@ Para combates avanzados con este simulador, solo se requiere de careta y guantes
 
 Para combates competitivos, el simulador se deberá utilizar junto a careta, peto, guantes, protector inguinal, gorget (protector de cuello) y en lo posible, ropa con mangas largas (para evitar quemaduras por fricción)
 
+![[Lección 1 - Sobre el Sable de Luz]]
+
 ### Recomendaciones de bateria
 
-![[bateria.jpeg]]
+![[bateria.jpeg|400]]

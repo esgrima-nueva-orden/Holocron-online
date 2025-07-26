@@ -7,5 +7,5 @@ En ENO hemos trabajado en crear prototipos que ayuden a solucionar problemática
 
 Estos son:
 
-- [[Protector de Espuma ENO]]: Una espuma similar el fideo de piscina en la que se inserta la hoja del [[Nivel 2 - Sable de Luz|Sable de Luz]]. Esta ayuda a amortiguar golpes, pero permite el traspaso de la luz.
-- [[Hoja flexible]]: Una hoja para el [[Nivel 2 - Sable de Luz|Sable de Luz]] que aumenta la seguridad en relación a la estocada.
+- [[Protector de Espuma ENO]]: Una espuma similar el fideo de piscina en la que se inserta la hoja del [[Sable de Luz|Sable de Luz]]. Esta ayuda a amortiguar golpes, pero permite el traspaso de la luz.
+- [[Hoja flexible]]: Una hoja para el [[Sable de Luz|Sable de Luz]] que aumenta la seguridad en relación a la estocada.
