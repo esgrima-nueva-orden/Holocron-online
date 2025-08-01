@@ -1,13 +1,5 @@
 Para comenzar tu entrenamiento en ENO, conocerás tu primera guardia. Es una de las más comúnes y también se le llama como [[Lección 7 - Guardias y estrategia#<center>Guardia Media-Inicial</center>|Guardia Media]]. Te será útil para comenzar los ejercicios durante esta estapa. Su estructura variará por la forma que practiques, pero su uso y posición relativa al cuerpo es la misma.
 
-## Soresu
-
-![[soresu_mid_guard.png]]
-
-1. En Soresu, tu guardia Inicial  proyecta una amenaza a la garganta del oponente a través de la punta de la espada de uno.
-2. El puño izquierdo se coloca a aproximadamente a un puño de distancia del ombligo y un poco hacia abajo.
-3. Los pies se colocan a medio paso de distancian entre ellos, el pie derecho al frente. La posición debe ser tomada como si uno se hubiera parado naturalmente al caminar.
-
 ## Makashi
 
 ![[saber_mid_guard.png|378x321]]
@@ -16,6 +8,13 @@ Para comenzar tu entrenamiento en ENO, conocerás tu primera guardia. Es una de 
 3. La punta del pie derecho y la rodilla deben orientarse hacia adelante.
 4. El cuerpo debe estar firmemente plantado en el suelo, sin cargar el peso en ninguna pierna (La distribución de peso debiera estar a razón de 50:50).
 
+## Soresu
+
+![[soresu_mid_guard.png]]
+
+1. En Soresu, tu guardia Inicial  proyecta una amenaza a la garganta del oponente a través de la punta de la espada de uno.
+2. El puño izquierdo se coloca a aproximadamente a un puño de distancia del ombligo y un poco hacia abajo.
+3. Los pies se colocan a medio paso de distancian entre ellos, el pie derecho al frente. La posición debe ser tomada como si uno se hubiera parado naturalmente al caminar.
 
 ## Djem So
 

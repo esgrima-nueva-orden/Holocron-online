@@ -1,0 +1,31 @@
+/* --- Imagen flotante y tamaños (basado en clases) --- */
+
+/* Flotado a la derecha */
+img.right {
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 1em;
+  max-width: 300px;
+}
+
+/* Flotado a la izquierda */
+img.left {
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 1em;
+  max-width: 300px;
+}
+
+/* Centrar imagen */
+img.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* Tamaños */
+img.wsmall { max-width: 150px; }
+img.wmed { max-width: 300px; }
+img.wtall { max-width: 500px; }

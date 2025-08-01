@@ -3,7 +3,7 @@ title: Quienes somos
 weight: 10
 ---
 
-Somos una agrupación radicada en **Puerto Montt** dedicada a la [[Qué es la Esgrima con Sable de Luz/index|práctica de Esgrima]] y coreografía con [[Sable de Luz|Sable de Luz]].  Nuestras enseñanzas se inspiran en fuentes de esgrima históricas para describir los estilos ficticios creados en **Star Wars**.
+Somos una agrupación radicada en **Puerto Montt** dedicada a la [[Qué es la Esgrima con Sable de Luz/index|práctica de Esgrima]] y coreografía con [[Sobre el simulador/Sable de Luz|Sable de Luz]].  Nuestras enseñanzas se inspiran en fuentes de esgrima históricas para describir los estilos ficticios creados en **Star Wars**.
 
 ## Nuestra misión, visión y valores
 

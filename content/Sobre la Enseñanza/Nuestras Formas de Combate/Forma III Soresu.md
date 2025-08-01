@@ -1,4 +1,8 @@
+![[Obi-wan_kenobi.png#right|200]]
+
 **Soresu** es la tercera forma de combate de nuestra agrupación, un estilo que combina **defensa, control y contraataque**. Aunque popularmente se le conoce como una forma puramente defensiva, su verdadera esencia radica en **aprovechar la energía y los movimientos del oponente** para crear **oportunidades de ataque inmediatas**. En Soresu, la defensa y el ataque no son dos momentos separados: cada acción de desvío o bloqueo puede transformarse en una apertura para contraatacar, buscando terminar el enfrentamiento con **precisión y economía de esfuerzo**.
+
+---
 
 #### Inspiración histórica y filosófica
 
@@ -14,24 +18,14 @@ Este estilo se nutre de dos fuentes principales:
         
     - Técnicas icónicas como el **golpe Centella** y el **golpe Carmesí**, que aportan potencia y carácter al estilo.
         
+ ![[Soresu_Duelo.png|336]]  ![[soresu_duelo_gpt.png|300]]
 
-**Sugerencia de imagen aquí:**
 
-- Fotograma o ilustración de **un combate de kenjutsu o kendo**, para mostrar la estética base.
-    
-- **Dibujo de Musashi o caligrafía japonesa** como fondo visual en esta sección.
-    
+---
 
 #### Estilo visual y carácter
 
 En **coreografías**, Soresu evoca la sensación de un **duelo de samuráis en el cine clásico**: movimientos circulares, bloqueos amplios y fluidez metódica. Su apariencia es **serena y disciplinada**, pero puede volverse **explosiva y agresiva** en los momentos de contraataque, logrando un impacto visual muy marcado.
-
-**Sugerencia de imagen aquí:**
-
-- Foto o ilustración de **Obi-Wan Kenobi en una guardia de Soresu**, destacando la serenidad del estilo.
-    
-- Imagen de un **practicante de la agrupación ejecutando un desvío circular o golpe Centella**, para mostrar cómo se ve en acción.
-    
 
 #### Perfil del practicante
 
@@ -41,6 +35,9 @@ Aunque puede ser **menos popular en torneos competitivos** (debido a que exige m
 
 #### Medidas recomendadas del sable
 
+
+![[lightsaber_katana.png|300]]
+
 - **Empuñadura:** ~30 cm
     
 - **Hoja:** ~70 cm
@@ -48,8 +45,3 @@ Aunque puede ser **menos popular en torneos competitivos** (debido a que exige m
 - **Longitud total:** ~1 metro
     
 - Puede complementarse con **guardias tipo tsuba**, disponibles en el mercado, para dar una sensación más fiel a su inspiración oriental y mejorar la protección de la mano.
-    
-
-**Sugerencia de imagen aquí:**
-
-- Imagen de un **sable de luz con tsuba o diseño inspirado en katana**, para mostrar la personalización que potencia el estilo.

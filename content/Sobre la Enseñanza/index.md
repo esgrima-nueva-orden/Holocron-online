@@ -9,4 +9,4 @@ weight: 40
 - [[Sobre la Enseñanza/Curso de Iniciación/index|Curso de Iniciación]]
 - [[Sobre la Enseñanza/Curso de Profundización de Formas/index|Curso de Profundización de Formas]]
 - [[_Para los Instructores/index|Para los Instructores]]
-- [[_Pendientes/index|Pendientes]]
+- [[_Pendientes|Pendientes]]

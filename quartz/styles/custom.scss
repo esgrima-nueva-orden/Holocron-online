@@ -1,4 +1,7 @@
-@use "./base.scss"; // Importa los estilos base de Quartz
+@use "./base.scss";
+
+
+
 
 :root {
   --secondary: #E79A01; /* amarillo */
@@ -309,4 +312,18 @@ a.internal:hover {
   margin: 0 0.5rem;
   color: #E79A01;
   opacity: 0.6;
+}
+
+/* ===========================
+   TEST
+   =========================== */
+   
+   img.right {
+  float: right;
+  margin: 0 0 1em 1em;
+}
+
+img.left {
+  float: left;
+  margin: 0 1em 1em 0;
 }

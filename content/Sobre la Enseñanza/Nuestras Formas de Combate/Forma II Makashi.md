@@ -1,8 +1,14 @@
+![[dooku.jpg#right|250]]
+
 **Makashi** es la segunda forma de combate de nuestra agrupación, un estilo diseñado principalmente para **duelos uno a uno**, aunque sus movimientos elegantes y fluidos lo hacen igualmente atractivo para **coreografías y exhibiciones**.
 
 A diferencia de otras formas, Makashi utiliza **el sable con una sola mano**, lo que permite **mayor movilidad, velocidad y amplitud de giros**. Este manejo facilita el uso de **posiciones variadas de sable**, creando un estilo versátil y visualmente llamativo. Entre sus rasgos más distintivos se encuentra el **lunge (estocada larga)**, un movimiento explosivo y de gran presencia escénica.
 
+---
+
 #### Inspiración histórica
+
+![[hutton_portada.png#right|200]]
 
 La base de Makashi está fuertemente inspirada en el manual **_Cold Steel_ de Alfred Hutton**, uno de los referentes de la esgrima con **sable militar británico** del siglo XIX. Aunque algunas lecciones toman influencias menores de la **esgrima olímpica moderna**, el núcleo del estilo conserva principios históricos, como:
 
@@ -13,9 +19,10 @@ La base de Makashi está fuertemente inspirada en el manual **_Cold Steel_ de Al
 - Ejercicios de **parry-riposte** (bloqueo y contraataque).
     
 - La ejecución del **lunge**, manteniendo su fuerza visual y efectividad.
-    
 
-Para reforzar la autenticidad del estilo, se recomienda que los sables de luz utilizados posean **guardias protectoras para la mano**, que pueden ser **fabricadas por la agrupación** y adaptadas tanto a empuñaduras rectas como curvas.
+![[gpt_passata_sotto.png|500]]
+
+---
 
 #### Estilo y aplicación
 
@@ -32,9 +39,11 @@ Makashi está dirigido a **quienes desean dominar el sable de luz a una mano**, 
 En combate competitivo, Makashi es atractivo para **practicantes con explosividad corporal y buena coordinación**, ya que les permite controlar el espacio con agilidad. En **coreografías y exhibiciones**, su elegancia y movimientos circulares destacan, haciendo que quienes lo practican se vean **experimentados y confiados en su técnica**, evocando figuras icónicas como el Conde Dooku.
 
 Aunque admite variantes de sables curvos o rectos, se recomienda que posean **guardia protectora para la mano**, ya que este estilo favorece el contacto cercano y las maniobras rápidas, donde la protección es clave.
-    
 
 #### Medidas recomendadas del sable
+
+
+![[lightsaber_cutlass.png|300]]
 
 - **Empuñadura:** ~25 cm
     
@@ -42,22 +51,4 @@ Aunque admite variantes de sables curvos o rectos, se recomienda que posean **gu
     
 - **Longitud total:** ~85 cm
     
-- **Guardia:** deseable, ya sea un sable recto o curvo, para proteger la mano y reflejar su inspiración histórica.
-
-### Sugerencias de imágenes para esta sección
-
-1. **Conde Dooku (Makashi)**
-    
-    - Una imagen icónica del personaje en guardia, editada con estilo propio de la agrupación.
-        
-2. **Sable militar de Hutton**
-    
-    - Ilustración histórica de una postura o guardia del manual _Cold Steel_.
-        
-3. **Pose comparativa**
-    
-    - Foto o dibujo de un practicante de la agrupación ejecutando el **lunge** o una **guardia característica** de Makashi.
-        
-4. **Detalle del sable con guardia**
-    
-    - Imagen de un sable de luz modificado con **protección para la mano**, para mostrar cómo se adapta al estilo.
+- **Guardia:** Para reforzar la autenticidad del estilo, se recomienda que los sables de luz utilizados posean **guardias protectoras para la mano**, que pueden ser **fabricadas por la agrupación** y adaptadas tanto a empuñaduras rectas como curvas.

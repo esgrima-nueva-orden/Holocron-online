@@ -8,45 +8,31 @@ La defensa posee la misma importancia que el ataque. Su maestría hace la difere
 # Tipos de bloqueo
 
 
-## Bloqueo Cabeza
-- **Soresu**
-- 
-![[soresu_bloq_cabeza.png|400]]
+## Bloqueo de Cabeza
 
-- **Makashi**
-- 
-![[bloqueo_cab_maka.png|419x188]]
 
-- **Djem So**
-- 
-![[bloq_cab_djem.png|412x311]]
-
+| **Makashi**                    | **Soresu**                       | **Djem So**                 | 
+| ------------------------------ | -------------------------------- | --------------------------- |
+| ![[bloqueo_cab_maka.png\|250]] | ![[soresu_bloq_cabeza.png\|250]] | ![[bloq_cab_djem.png\|250]] |
 
 ## Bloqueo Alto
-- **Soresu** 
-- 
-![[bloqueo_sup_soresu.png|315x218]]
 
-- **Makashi**
-- 
-![[bloqueo_sup_maka.png|359x177]]
 
-- **Djem So**
-- 
-![[bloqueo_superior.png|312x297]]
-
+| **Makashi**                    | **Soresu**                       | **Djem So**                       |
+| ------------------------------ | -------------------------------- | --------------------------------- |
+| ![[bloqueo_sup_maka.png\|250]] | ![[bloqueo_sup_soresu.png\|250]] | ![[bloqueo_alto_djemso.png\|200]] |
 
 ## Bloqueo Medio
-- Soresu
 
 
-- Makashi
+| Makashi | Soresu | Djem So                       |
+| ------- | ------ | ----------------------------- |
+|         |        | ![[bloq_medio_djem.png\|250]] | 
 
 
-- Djem So
 
 
-![[bloq_medio_djem.png|317x213]]
+
 
 
 ## Bloqueo Bajo

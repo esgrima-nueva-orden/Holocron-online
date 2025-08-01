@@ -1,5 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
+import { ObsidianImageProcessor } from "./quartz/plugins/obsidianImageProcessor";
 
 
 /**
@@ -60,6 +61,7 @@ const config: QuartzConfig = {
       Plugin.CreatedModifiedDate({
         priority: ["frontmatter", "git", "filesystem"],
       }),
+	  ObsidianImageProcessor(), // <- AÑADIDO AQUÍ
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",

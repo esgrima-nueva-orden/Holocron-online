@@ -1,4 +1,4 @@
-Tu siguiente lección será aprender cómo cortar con el [[Sable de Luz]]. Los cortes son la acción principal de ataque en la esgrima. Aprender cómo realizarlos es fundamental.
+Tu siguiente lección será aprender cómo cortar con el [[Sobre el simulador/Sable de Luz]]. Los cortes son la acción principal de ataque en la esgrima. Aprender cómo realizarlos es fundamental.
 ## Direcciones de corte y numeración
 
 En la mayoria de escuelas de esgrima, se reconocen 7 direcciones principales de corte, las cuales podrás notar a continuación. El nombre o numeración de estas puede variar entre escuelas, pero en ENO seguimos la numeración propuesta por Roworth y continuada por Hutton.
@@ -12,7 +12,7 @@ Ahora, para comenzar a practicar los cortes, recomendamos seguir el siguiente di
 
 ![[diagrama_meyer.png|300]]
 
-Para ser guiado por un[[Académicos#Instructores|Instructor]]  y que te explique cómo realizar los cortes, debes participar de los entrenamientos.
+Para ser guiado por un [[Académicos#Instructores|Instructor]]  y que te explique cómo realizar los cortes, debes participar de los entrenamientos.
 
 Recomendamos dividir este diagrama en sus secuencias y practicarlas por separado para luego juntarlas.
 ### Primera secuencia de corte

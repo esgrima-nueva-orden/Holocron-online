@@ -1,15 +1,8 @@
+![[Anakin_Skywalker_RotS.png#right|250]]
+
 **Djem So** es la quinta forma de combate de nuestra agrupación, un estilo que combina **presión, contraataque y dominio del espacio**. Aunque a menudo se percibe como una forma centrada únicamente en la fuerza, su verdadero enfoque es **aprovechar las acciones del oponente para generar oportunidades**, castigando errores con contundencia y cerrando combates con **ataques efectivos y rápidos**.
 
 Djem So no solo ataca: ejerce presión constante, **forzando al adversario a cometer errores** o creando aberturas mediante bloqueos y desvíos que convierten la defensa en un contraataque inmediato. Este estilo aprovecha también técnicas propias de **espadas con cruceta**, utilizando la empuñadura para controlar o desviar, adaptando estos recursos al sable de luz.
-
----
-
-**Sugerencia de imagen aquí:**
-
-- Fotograma o arte conceptual de **Anakin Skywalker en guardia baja o ejecutando un ataque poderoso**, transmitiendo la agresividad del estilo.
-    
-- Imagen de un **practicante ejecutando un Meisterhau (golpe maestro)** o una **guardia abierta de langschwert**, para reflejar su raíz histórica.
-    
 
 ---
 
@@ -22,35 +15,18 @@ Djem So toma directamente sus fundamentos del **Kunst des Fechtens (Arte de la E
 - **Desplazamientos tácticos y teoría de las fases del combate** (_Zufechten, Krieg y Abzug_).
     
 - **Los Meisterhau (golpes maestros)**, que permiten romper guardias, dominar líneas y crear oportunidades de ataque devastadoras.
-    
 
-Además, la influencia de **Joachim Meyer y otros maestros de la tradición alemana** aporta el dinamismo característico del estilo, combinando técnica con agresividad controlada.
-
----
-
-**Sugerencia de imagen aquí:**
-
-- Grabado o ilustración de **Joachim Meyer practicando langschwert** (puede ser una reproducción de un manuscrito).
-    
-- Imagen comparativa de una **guardia de langschwert y una pose de Djem So con sable de luz**, para mostrar el vínculo histórico.
-    
+![[zwerch_falseedge.png]]
 
 ---
 
 #### Estilo visual y carácter
 
+![[kylo_ren.png#right|350]]
+
 En **coreografías**, Djem So proyecta una imagen **agresiva y dominante**, con movimientos amplios, rápidos y encadenados que evocan las coreografías de las **precuelas de Star Wars**. Se usan **guardias abiertas y posturas bajas** que transmiten confianza, intensidad y, a menudo, un toque de agresividad teatral, siguiendo la impronta de **Anakin Skywalker**, su exponente más icónico.
 
 En **combate competitivo**, es una de las formas más populares gracias a su velocidad, potencia y versatilidad. Técnicas como el **Zwerchau (golpe cruzado)**, junto con el uso de la **empuñadura para bloquear**, le otorgan un carácter distintivo que pocos estilos pueden igualar.
-
----
-
-**Sugerencia de imagen aquí:**
-
-- Foto de un **combate real de la agrupación utilizando Djem So**, resaltando una acción agresiva como un **Zwerchau o un contraataque dinámico**.
-    
-- Detalle de un **sable con cruceta** usado en práctica, destacando cómo potencia las técnicas.
-    
 
 ---
 
@@ -60,10 +36,18 @@ Djem So es ideal para practicantes que desean **dominar el combate a dos manos**
 
 #### Medidas recomendadas del sable
 
+
+
+
+| ![[lightsaber_crossguard.png\|250]] | ![[lightsaber_crossguard_2.png\|255]] |
+| ----------------------------------- | ------------------------------------- |
+|                                     |                                       | 
+
+
 - **Empuñadura:** ~30 cm
     
-- **Hoja:** ~70 cm
+- **Hoja:** ~90 cm
     
-- **Longitud total:** ~1 metro
+- **Longitud total:** ~1.20 metros
     
 - Se recomienda el uso de **espadas con cruceta**, disponibles en el mercado, para ejecutar correctamente los **Meisterhau** y otras técnicas de control. Aunque es posible usar empuñaduras simples, estas limitan parte del potencial técnico del estilo.
