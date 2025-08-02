@@ -1,21 +1,66 @@
-# Paso Simple
+En esgrima, **mover los pies correctamente** es tan importante —o incluso más— que mover la espada. Los desplazamientos permiten **cerrar la distancia con el oponente, evadir ataques, mantener el equilibrio** y construir oportunidades ofensivas o defensivas. Son, por tanto, **una unidad básica del combate**, y su dominio es esencial para cualquier forma de combate que se enseñe en ENO.
+
+---
+
+## Paso Simple
+
 ![[paso_simple.png]]
 
-Partiendo por mover el pie que tengamos más cercano a la posición deseada se seguirá el movimiento con el cuerpo y se terminará con un arrastre del pie más alejado, manteniendo nuestra posición original, sin hundir ni levantar el cuerpo.
-La transición debe ser rápida, teniéndose cuidado de no sobreextender la pierna adelantada al momento de realizar el desplazamiento, para así evitar una pérdida de equilibrio explotable por el oponente.
-La versatilidad de este desplazamiento es que permite avanzar en cualquier dirección con relativa facilidad, siempre y cuando lideremos el movimiento con el pie correcto.
-Debe recordarse en todo momento mantener la altura correcta, la separación de las piernas y la alineación de la rodilla y la punta del pie.
+El **Paso Simple** consiste en mover primero el pie más cercano a la dirección deseada, seguido por el arrastre controlado del pie más alejado.  
+Su objetivo es **mantener exactamente la misma estructura corporal al inicio y al final del movimiento**, sin saltos, rebotes ni pérdida de altura. El **centro de gravedad se mantiene estable en la cadera** durante toda la ejecución.
 
+La clave está en **liderar el paso con el pie correcto**: si queremos avanzar, lo hace primero el pie delantero; si queremos retroceder, lo hace primero el pie trasero.  
+Un error común en principiantes es **juntar los pies al medio**, rompiendo la postura, o **sobreextender la pierna delantera**, lo que puede dejar al practicante desequilibrado y vulnerable.
 
-Se enseña Paso simple hacia adelante y atrás
-Para practicar, se realiza un paso simple junto a 1 corte y luego un paso largo con corte.
-Si o si se hace un corte del mismo lado, pero distinto. Intercalar entre superior e inferior.
+Este desplazamiento es muy versátil: se adapta bien a combates de ritmo controlado y también a coreografías elegantes y fluidas.
 
+**Ejercicio básico:**
 
-# Paso Largo
+- Paso simple con corte lateral
+    
+- Luego, paso largo con corte del mismo lado (alternar entre corte superior e inferior)
+    
+
+---
+
+## Paso Largo
 
 ![[paso_largo.png]]
 
-Desde postura, se avanza a ras de suelo con el pie atrasado en línea recta hasta alcanzar a cubrir la misma distancia que había respecto al pie adelantado.
-Mientras el pie atrasado avanza y reemplaza en su posición al pie adelantado, este último debe comenzar a rotar para formar un ángulo de 45° grados, tomando así la posición de pie atrasado.
-El movimiento debe ser explosivo, cuidando de no cargar en exceso el peso hacia adelante, debido al riesgo de perder el equilibrio. A diferencia del paso simple, reestructurar el cuerpo requiere más práctica con este desplazamiento. Así mismo, el cuerpo no debe hundirse ni levantarse al desplazar.so Largo
+El **Paso Largo** permite recorrer una mayor distancia y es útil para **iniciar un ataque repentino o salir rápidamente de la zona de peligro**.  
+Desde postura, el pie trasero se adelanta **a ras de suelo**, reemplazando la posición del pie delantero. Al mismo tiempo, el pie que originalmente estaba delante **rota en ángulo de 45°**, convirtiéndose en el nuevo pie trasero.
+
+Este movimiento debe ser **explosivo y firme**, pero sin cargar el peso excesivamente hacia adelante, ya que esto puede romper el equilibrio. Es más exigente que el paso simple y requiere **reajustar el cuerpo de forma consciente** al completar el movimiento.
+
+Un error común es **cerrar demasiado los pies al desplazarse hacia atrás**, lo que colapsa la base y complica la defensa.
+
+---
+
+## Relación con el Corte
+
+En todas las formas de combate, los desplazamientos deben **acompañar y reforzar el movimiento del corte**, nunca ser un elemento aislado.
+
+- En **Makashi**, predomina el uso de paso simple, por su ritmo ágil y explosivo.
+    
+- En **Soresu** y **Djem So**, los cortes se **integran con desplazamientos amplios y angulados**, creando fluidez o presión, respectivamente.
+    
+
+Primero se enseña el desplazamiento por sí solo, y luego se introduce su **sincronización con el corte**, siempre enfatizando que **ambos deben fluir juntos** como una sola acción.
+
+---
+
+## Objetivos técnicos
+
+Un buen desplazamiento busca:
+
+- **Mantener la estructura corporal intacta**
+    
+- **Evitar cambios de altura innecesarios**
+    
+- **Controlar el centro de gravedad**
+    
+- **Moverse de forma natural, fluida y no robótica**
+    
+
+El ideal técnico es que **el movimiento se vea tan natural como caminar**, pero con toda la intención y estructura de combate.  
+Más allá de avanzar o retroceder, **desplazarse es tomar el control del espacio**.

@@ -28,7 +28,7 @@ Actualmente es un deporte con presencia internacional, con diversas escuelas, re
 
 | ![[tournament_usa.png\|300]] | ![[erasmus_italia.png\| 300]]      |
 | ---------------------------- | ---------------------------------- |
-| Torneo en libre E.E.U.U.     | Lightsaber Fencing Eramus - Italia | 
+| Torneo libre en E.E.U.U.     | Lightsaber Fencing Eramus - Italia | 
 
 
 

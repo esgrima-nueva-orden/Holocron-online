@@ -15,11 +15,11 @@ Su principal característica es que  presenta aperturas de forma evidente, dejan
 # Las 4 Guardias Básicas
 ## Guardia Alta - Abierta
 
-|         | Centrado                                                                 | Variante (Hombro)                     |
-| ------- | ------------------------------------------------------------------------ | ------------------------------------- |
-| Makashi | ![[guardia_alta_makashi2.png\|100]]  ![[guardia_alta_makashi.png\|65]]   | ![[guardia_altavariante_makashi.png]] | 
-| Soresu  | ![[Guardia_alta_soresu.png\|100]] ![[soresu_guardia_alta.png\|100]]      | ![[soresu_alta_variante.png\|120]]         |
-| Djem So | ![[guardia_alta_djemso.png\|150]]    ![[guardia_alta_djemso-1.png\|130]] | ![[guardia_variante_djemso.png\|150]] |
+|         | Centrado                                                               | Variante (Hombro)                                                         |
+| ------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| Makashi | ![[guardia_alta_makashi2.png\|100]]  ![[guardia_alta_makashi.png\|65]] | ![[guardia_altavariante_makashi.png]]                                     |
+| Soresu  | ![[Guardia_alta_soresu.png\|100]] ![[soresu_guardia_alta.png\|100]]    | ![[soresu_alta_variante.png\|120]]                                        |
+| Djem So | ![[guardia_alta_djemso.png\|150]]                                      | ![[guardia_alta_djemso-1.png\|130]] ![[guardia_variante_djemso.png\|150]] | 
 
 ---
 ## Guardia Punta Alta - Cerrada
